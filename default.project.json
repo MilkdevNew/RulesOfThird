@@ -1,0 +1,11 @@
+{
+  "name": "RulesOfThird",
+  "tree": {
+    "$className": "DataModel",
+    "Workspace": {
+      "RulesOfThird-Rojo": {
+        "$path": "src"
+      }
+    }
+  }
+}
