@@ -7,7 +7,8 @@ local Maid = require(Packages.Maid)
 local PluginAction = plugin:CreatePluginAction(
 	"Third_milk-studio",
 	"Enables Rules of Thirds.",
-	"Enables Rules of Thirds, plugin from milk-studio on GitHub"
+	"Enables Rules of Thirds, plugin from milk-studio on GitHub",
+	"rbxassetid://13063603556"
 )
 local MaidObject = Maid.new()
 local Frame = require(Assets.Frame)
