@@ -1,11 +1,3 @@
-<div style="display: flex; justify-content: center;">
-
-<a href="https://create.roblox.com/marketplace/asset/13063254147/Rules-Of-Third"><img src="https://raw.githubusercontent.com/milk-studio/openSourceIcon/master/assets/svg/OnRoblox.svg" width="185" height="72"></a>
-
- <div style="padding: 0 10px;"></div>
-<a href="https://milkshakesir.itch.io/rules-of-third"><img src="https://raw.githubusercontent.com/milk-studio/openSourceIcon/master/assets/svg/Onitch.svg" width="185" height="72"></a>
-</div>
-
 ### Info
 
 This plugin helps bring [Rules of Third](https://en.wikipedia.org/wiki/Rule_of_thirds), which helps frame an object when taking a screenshot in the studio.
@@ -13,6 +5,10 @@ This plugin helps bring [Rules of Third](https://en.wikipedia.org/wiki/Rule_of_
 [Source Code](https://github.com/milk-studio/RulesOfThird)
 
 ### Installation
+
+<a href="https://create.roblox.com/marketplace/asset/13063254147/Rules-Of-Third"><img src="https://raw.githubusercontent.com/milk-studio/openSourceIcon/master/assets/svg/OnRoblox.svg" width="185" height="72"></a>
+
+<a href="https://milkshakesir.itch.io/rules-of-third"><img src="https://raw.githubusercontent.com/milk-studio/openSourceIcon/master/assets/svg/Onitch.svg" width="185" height="72"></a>
 
 #### First method
 
