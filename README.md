@@ -6,9 +6,8 @@ This plugin helps bring [Rules of Third](https://en.wikipedia.org/wiki/Rule_of_
 
 ### Installation
 
-<a href="https://create.roblox.com/marketplace/asset/13063254147/Rules-Of-Third"><img src="https://raw.githubusercontent.com/milk-studio/openSourceIcon/master/assets/svg/OnRoblox.svg" width="185" height="72"></a>
-
-<a href="https://milkshakesir.itch.io/rules-of-third"><img src="https://raw.githubusercontent.com/milk-studio/openSourceIcon/master/assets/svg/Onitch.svg" width="185" height="72"></a>
+<a href="https://create.roblox.com/marketplace/asset/13063254147/Rules-Of-Third"><img src="https://raw.githubusercontent.com/milk-studio/openSourceIcon/master/assets/svg/OnRoblox.svg" width="185" height="50"></a>
+<a href="https://milkshakesir.itch.io/rules-of-third"><img src="https://raw.githubusercontent.com/milk-studio/openSourceIcon/master/assets/svg/Onitch.svg" width="185" height="50"></a>
 
 #### First method
 
